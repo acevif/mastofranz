@@ -1,0 +1,23 @@
+{
+  "name": "Mastadon",
+  "version": "1.0.0",
+  "description": "Mastadon",
+  "main": "index.js",
+  "author": "drox <me@droxmusic.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://social.targaryen.house/",
+    "serviceName": "Mastadon",
+    "message": "Toot",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+	  "disablewebsecurity": false
+    },
+    "openDevTools": false
+  }
+}
