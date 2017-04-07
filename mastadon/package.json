@@ -6,7 +6,7 @@
   "author": "drox <me@droxmusic.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://social.targaryen.house/",
+    "serviceURL": "https://mastodon.social/about",
     "serviceName": "Mastadon",
     "message": "Toot",
     "popup": [],
